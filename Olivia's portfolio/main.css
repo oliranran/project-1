@@ -1,0 +1,53 @@
+.logo {
+    height: 52px; 
+    width: 72px;
+    margin-top: 5px;
+    padding-left:5px;
+  }
+h1 {
+    text-align: center;
+    color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 65px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    line-height: 1.8em;
+    padding-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 25px;
+    font-weight: 100;
+    padding-left: 110px;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color:#fff;
+    text-align: center;
+    padding-top: 35px;
+    padding-left:35px;
+}
+.header {
+    background-color: #B3B1D9;
+    padding-bottom: 50px;
+}
+
+.images {
+	max-width: 1150px;
+    margin: 0 auto;
+    padding-left:85px;
+}
+
+}
+img {
+		max-width: 100%;
+        margin:  20px 20px 0 0; 
+        float: left;       
+}
+//learned this margin concept from "www.w3schools.com"

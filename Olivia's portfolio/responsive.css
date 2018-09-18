@@ -1,0 +1,32 @@
+@media screen and (max-width: 800px) {
+  .header{
+      width:auto;
+      height: 50%;
+  }
+  h1 {
+      padding-left: 80px;
+  }
+  h2 {
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+    letter-spacing:1px;
+    font-size: 20px;
+    line-height:0;
+    font-weight: 100;
+    padding-left: 100px;
+}
+}
+
+@media screen and (min-width: 801px) {
+    .header{
+        width:90%;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    .header{
+        width:100%;
+    }
+}
+
